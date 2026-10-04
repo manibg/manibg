@@ -1,7 +1,5 @@
----
-
 # Manikandan B  
-[Portfolio](https://manibg.github.io) 
+🌐 [Portfolio](https://manibg.github.io) 
 
 **Backend Engineer · Java · Distributed Systems · AI Engineering**
 
