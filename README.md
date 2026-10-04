@@ -1,16 +1,15 @@
-## Hi there 👋
+# Manikandan B
 
-<!--
-**manibg/manibg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Engineer · Java · Distributed Systems · AI Engineering**
 
-Here are some ideas to get you started:
+Software Engineer III building reliable backend platforms,
+distributed services, and production engineering tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Current: Software Engineer III at Walmart Global Tech
+- Core stack: Java, Spring Boot, Kafka, RabbitMQ, Redis, SQL Server, Kubernetes
+- Engineering: Distributed systems, REST APIs, event-driven architecture,
+  observability, production reliability
+- AI: Developer productivity, debugging automation, agentic AI and MCP exploration
+- Portfolio: manibg.github.io
+- Writing: manib.hashnode.dev
+- Open to opportunities: Worldwide
