@@ -10,6 +10,6 @@ distributed services, and production engineering tooling.
 - Engineering: Distributed systems, REST APIs, event-driven architecture,
   observability, production reliability
 - AI: Developer productivity, debugging automation, agentic AI and MCP exploration
-- Portfolio: manibg.github.io
-- Writing: manib.hashnode.dev
+- Portfolio: [manibg.github.io](https://manibg.github.io)
+- Writing: [manib.hashnode.dev](https://manib.hashnode.dev)
 - Open to opportunities: Worldwide
